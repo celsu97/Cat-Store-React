@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap";
 export default function AboutPage() {
   return (
     <>
-    // Header section with a background image of two cats resting on grass.
+    {/* Header section with a background image of two cats resting on grass. */}
       <header style={{ width: "100%", height: 300, overflow: "hidden" }}>
         <img
           src="https://images.unsplash.com/photo-1657027563718-8d1974977b02?fm=jpg&q=60&w=3000&auto=format&fit=crop"
