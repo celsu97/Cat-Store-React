@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Container, Button } from "react-bootstrap";
 import { useCart } from "../Context/CartContext";
-import CartItem from "../Components/CartItem";
+import CartItem from "../Components/CartItemComp";
 import FormComp from "../Components/FormComp";
 import { Link } from "react-router-dom";
 
